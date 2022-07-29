@@ -1,0 +1,9 @@
+[meta]
+name        = "Match simulator"
+author      = "Olskor"
+category    = "Utilities"
+version     = "0.1.5"
+
+[script]
+imports = [ "Icons.as", "Formatting.as", "Time.as" ]
+dependencies = [ "PlayerState" ]
